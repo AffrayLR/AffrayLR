@@ -6,8 +6,7 @@ coverY: 248.61806311207835
 
 # Vision
 
-We aim to create an NFT project that connects quality projects on Solana by featuring them in our collection. Our modern looking unique rooms are made for showcasing your NFTs, but don't fall asleep because that's not all! Our staking mechanism to earn $LUXR is unique and strategized. You'll have to strategically choose your NFT(s) to optimize your earnings (read further). Your valuable $LUXR will be needed to upgrade your room and choose to feature your own NFTs and text. Or you could spend it on auctions and raffles to win high-quality NFTs or in real-life items (e.g. event tickets, vacations, gadgets, etc.)\
-
+We aim to create an NFT project that connects quality projects on Solana by featuring them in our collection. Our modern looking unique rooms are made for showcasing your NFTs, but don't fall asleep because that's not all! Our staking mechanism to earn $LUXR is unique and strategized. You'll have to strategically choose your NFT(s) to optimize your earnings (read further). Your valuable $LUXR will be needed to upgrade your room and choose to feature your own NFTs and text. Or you could spend it on auctions and raffles to win high-quality NFTs or in real-life items (e.g. event tickets, vacations, gadgets, etc.)
 
 ![Legendary Gold Room](../.gitbook/assets/SneakPeek3.png) ![Parntership Room with PhantoMoly KrakHeadz](<../.gitbook/assets/SneakPeekPhantoMoly (2).png>)
 
