@@ -10,7 +10,7 @@ description: Get to know the team!
 \
 **Azrael**: Experienced Alpha Hunter. He also works for Magnum Ai and The Planetarians. \
 \
-**Erza**: \
+**Erza**: Experienced Alpha Hunter and Mod. She is also a developer by profession, but the NFT space and blockchain is what she loves the most.\
 \
 **Zygfrid**: Experienced Alpha Hunter and Mod in Decimus Dynamics, JIKAN studios and Nyan Heroes.&#x20;
 
