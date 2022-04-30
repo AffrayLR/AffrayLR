@@ -12,7 +12,8 @@ coverY: 244.43960826985855
 **Supply**: 3333\
 **Mint price**: TBD\
 **Mint date**: TBD\
-**Unique Partnerships**: Smoke Heads, PhantoMoly, Alpha VeriFi (doxx), Mercury (WL submission)
+**Unique Partnerships**: Smoke Heads, PhantoMoly, Alpha VeriFi (doxx), Mercury (WL submission)\
+**Launchpad**: TBD but we aim high
 
 ### What's unique?
 
